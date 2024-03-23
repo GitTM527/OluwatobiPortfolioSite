@@ -1,0 +1,79 @@
+{
+    "skills": [
+        {
+            "id":1,
+            "src":"./img/product-chain-1.png",
+            "title":"Front-End",
+            "description": "I am creative and innovative, using the right tools to create befiting website. Ranging from CSS Library/bootstrap3, JavaScript, React Js and a bit of Saas."
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Graphic Design",
+      "description": "I convert my clients thoughts and Emotions into Realistics designs with the best graphics tools; CorelDraw, Adobe after effect, Ilustrator, Photoshop and Premier Pro."
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "UI & UX Design",
+      "description": "I have quality proficiency in Adobe In-Design and Figma and kin to building quality and users friendly Landing Page for Websites. This skillset has helped my clients find their foot in their various industry."
+    },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-1.png",
+      "title": "Webflow Development",
+      "description": "I play crucial role in designing, building, and maintaining websites with excellent UI, design performance, and content management. I combine my HTML, CSS, and JavaScript expertise to create visually appealing and functional websites that meet my client's requirements"
+    }
+  ],
+
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/placeholder-image.png",
+      "title": "Ecommerce Website",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "https://github.com/GitTM527/EcommerceSite.git"
+    },
+    {
+      "id": "2",
+      "src": "./img/placeholder-image-1.png",
+      "title": "YouTube Clone",
+      "description": "The YouTube clone was designed with React and its functionality was from JsMasery.com ",
+      "link": "https://github.com/GitTM527/Tobiyoutube_clone.git"
+    },
+    {
+      "id": "3",
+      "src": "./img/placeholder-image-2.png",
+      "title": "LinkedIn Clone",
+      "description": "The LinkedIn Clone was designed with React Js",
+      "link": "https://github.com/GitTM527/linkedin-clone.git"
+    }
+  ],
+  
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/avatar-image.png",
+      "description": "Oluwatobiloba has been my graphics designer for a while now and he is good at what he does.",
+      "author_name": "Tolani Cyril",
+      "author_designation": "CEO Honours Tutorials"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/avatar-image-1.png",
+      "description": "Oluwatobiloba has been my graphics designer for a while now and he is good at what he does.",
+      "author_name": "Tolani",
+      "author_designation": "Louis Vuitton"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/avatar-image-2.png",
+      "description": "I am impress by his job delivery and he is also a good listner",
+      "author_name": "Kathryn Murphy",
+      "author_designation": "McDonald's"
+    }
+  ]
+}
